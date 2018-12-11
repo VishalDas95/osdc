@@ -5,4 +5,20 @@
   display:flex;
   justify-content:center;
 }
+p{
+color:white;
+font-family: 'Lora', serif;
 
+}
+.test1{
+  font-family: 'Bree Serif', serif;
+
+}
+.test2{
+  font-family: 'Archivo Narrow', sans-serif;
+
+}
+.test3{
+  font-family: 'Crimson Text', serif;
+
+}
