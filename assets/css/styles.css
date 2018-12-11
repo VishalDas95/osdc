@@ -1,3 +1,8 @@
 .blockquote {
 }
 
+.container-fluid.flex-container {
+  display:flex;
+  justify-content:center;
+}
+
