@@ -1,27 +1,18 @@
-.blockquote {
+h1, p {
+  font-family:'Zilla Slab';
+}
+
+.prose {
+  font-family:'Zilla Slab';
 }
 
 .container-fluid.flex-container {
   display:flex;
   justify-content:center;
 }
-p{
-color:white;
-font-family: 'Lora', serif;
 
+.navbar-light .navbar-toggler {
+  color:#ffffff;
+  border-color:#ffffff;
 }
-.test1{
-  font-family: 'Bree Serif', serif;
 
-}
-.test2{
-  font-family: 'Archivo Narrow', sans-serif;
-
-}
-.test3{
-  font-family: 'Crimson Text', serif;
-
-}
-gl{
-  color: black;
-}
